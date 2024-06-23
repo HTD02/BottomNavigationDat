@@ -1,0 +1,19 @@
+style:
+  MagicNumber:
+    active: false
+  MaxLineLength:
+    active: true
+    maxLineLength: 120
+  UnusedParameter:
+    active: true
+  WildcardImport:
+    active: true
+  UnusedImports:
+    active: true
+
+complexity:
+  CyclomaticComplexMethod:
+    active: true
+  NamedArguments:
+    active: true
+    threshold: 3
